@@ -311,6 +311,14 @@ caption {
     text-align: left
 }
 
+b.question {
+    color: #FEA116;
+}
+
+b.answer {
+    color: #0F172B;
+}
+
 th {
     text-align: inherit;
     text-align: -webkit-match-parent
